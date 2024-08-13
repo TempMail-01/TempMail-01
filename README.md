@@ -15,6 +15,7 @@
 📄 Know about my experiences [https://piyush-singhal-portfolio.vercel.app/PiyushSinghal_BCA_GLAU.pdf](https://piyush-singhal-portfolio.vercel.app/PiyushSinghal_BCA_GLAU.pdf)
 
 ⚡ Fun fact **Ctrl+Z and Ctrl+Y is my time machine.**
+<br>
 
 
 

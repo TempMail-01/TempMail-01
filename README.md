@@ -19,13 +19,15 @@
 
 
 # 🌐 Socials:
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush0809)  -->
-<p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush0809) 
+[![Leetcode](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush0809) 
+[![CodeChef](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush0809) 
+<!-- <p align="left">
 <a href="https://linkedin.com/in/piyush0809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush0809" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/piyush85" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="piyush85" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/piyushsinghal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyushsinghal01" height="30" width="40" /></a>
 <br><br>
-</p>
+</p> -->
 
 
 

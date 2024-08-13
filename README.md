@@ -51,7 +51,8 @@
 
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> **"Code is like humor. When you have to explain it, it’s bad. Keep it simple, keep it clean."**  
+> - Cory House
 
 <!-- count -->
 ---

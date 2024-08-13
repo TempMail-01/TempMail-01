@@ -24,7 +24,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-%230077B5.svg?logo=codchef&logoColor=white)](https://www.codechef.com/users/piyush85)  -->
 <p align="left">
 <a href="https://linkedin.com/in/piyush0809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush0809" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/piyush85" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png" alt="piyush85" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/piyush85" target="blank"><img align="center" src="https://img.icons8.com/?size=96&id=LnZMjt9rZC3d&format=png" alt="piyush85" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/piyushsinghal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyushsinghal01" height="30" width="40" /></a>
 <br><br>
 </p>

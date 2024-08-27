@@ -16,7 +16,7 @@
 
 ⚡ Fun fact **Ctrl+Z and Ctrl+Y is my time machine.**
 
-![](https://github.com/TempMail-01/https://i.gifer.com/J4o.gif)
+![](https://i.gifer.com/J4o.gif)
 
 
 
